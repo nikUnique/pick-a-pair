@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pick-a-pair/static/css/main.2d1aa0d6.css",
+    "main.js": "/pick-a-pair/static/js/main.211aa8e5.js",
+    "index.html": "/pick-a-pair/index.html",
+    "main.2d1aa0d6.css.map": "/pick-a-pair/static/css/main.2d1aa0d6.css.map",
+    "main.211aa8e5.js.map": "/pick-a-pair/static/js/main.211aa8e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d1aa0d6.css",
+    "static/js/main.211aa8e5.js"
+  ]
+}
