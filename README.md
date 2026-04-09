@@ -1,6 +1,6 @@
 # Pick-a-Pair
 
-A simple memory-matching card game built with **TypeScript**.
+A simple memory-matching card game built with React and TypeScript.
 
 ## About
 
@@ -47,9 +47,9 @@ Pick-a-Pair is a classic memory game where you flip cards to find matching pairs
 
 ## Technology Stack
 
+- React – UI library
 - TypeScript – Type-safe JavaScript
-- HTML5 – Game structure
-- CSS3 – Styling and animations
+- CSS Modules – Scoped styling
 
 ## License
 
