@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 0afdb1e200f2bd19700bd750f95b3317916373ba nikUnique <nikutkov@gmail.com> 1775565181 -0700	commit (initial): Initial commit
+0afdb1e200f2bd19700bd750f95b3317916373ba 0afdb1e200f2bd19700bd750f95b3317916373ba nikUnique <nikutkov@gmail.com> 1775565209 -0700	Branch: renamed refs/heads/master to refs/heads/master
+0afdb1e200f2bd19700bd750f95b3317916373ba b8d89373c93fd3879010dd88f4fdef6bd5dbce46 nikUnique <nikutkov@gmail.com> 1775743243 -0700	commit: Added readme
+b8d89373c93fd3879010dd88f4fdef6bd5dbce46 d2d4e4ee3de2a3cc6d9991d966676d85080e5c27 nikUnique <nikutkov@gmail.com> 1775744316 -0700	pull --rebase (finish): refs/heads/master onto 6594b8be5973f9df01bfaf15ae1871f234df0eca
+d2d4e4ee3de2a3cc6d9991d966676d85080e5c27 66d3f64f7a19e761dc051f2e58f552b87e785005 nikUnique <nikutkov@gmail.com> 1775744330 -0700	commit: Added readme
+66d3f64f7a19e761dc051f2e58f552b87e785005 4911516a6997e965680fff1dd620b87c72128707 nikUnique <nikutkov@gmail.com> 1775744634 -0700	commit: Edited readme
+4911516a6997e965680fff1dd620b87c72128707 9a7f76b675711cb4be0f3c5d248f62d86aee931f nikUnique <nikutkov@gmail.com> 1775746462 -0700	commit: Just to pull
+9a7f76b675711cb4be0f3c5d248f62d86aee931f 09a46823997bb3edb52e0f18549401bf31524c18 nikUnique <nikutkov@gmail.com> 1775746476 -0700	pull --rebase (finish): refs/heads/master onto 7417fa045d8ba42bfbb03d4f04edbf21cc0af8ce
+09a46823997bb3edb52e0f18549401bf31524c18 431221d2b097f231b561096076ee47ac72019772 nikUnique <nikutkov@gmail.com> 1775746601 -0700	commit: Installed github pages
+431221d2b097f231b561096076ee47ac72019772 651b7f13caba1b6b7401bf36e7cef6ddc8efa6f6 nikUnique <nikutkov@gmail.com> 1775746754 -0700	commit: Edited package.json
+651b7f13caba1b6b7401bf36e7cef6ddc8efa6f6 1955a2484f69b8fb2056d864eb124c2dd98a2dc8 nikUnique <nikutkov@gmail.com> 1775792607 -0700	commit: Added chame locally and fixed package.json
+1955a2484f69b8fb2056d864eb124c2dd98a2dc8 c09ff2a5df58435bcafc97082321d1540ea7a057 nikUnique <nikutkov@gmail.com> 1775792706 -0700	pull --rebase (finish): refs/heads/master onto be7f8f54840666044a2f44da53e6967272b8e28f

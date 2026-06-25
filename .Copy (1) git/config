@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = nikutkov@gmail.com
+	name = nikUnique
+[remote "origin"]
+	url = https://github.com/nikUnique/pick-a-pair.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[pull]
+	rebase = false
